@@ -73,5 +73,3 @@ Constantly seeking novel ways to leverage computers for diverse applications.
 
 <h3>Github</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivanromeroprog&show_icons=true&locale=en&layout=compact" alt="ivanromeroprog" /></p>
-
-<h3>Gitlab</h3>
