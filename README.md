@@ -9,7 +9,7 @@ Constantly seeking novel ways to leverage computers for diverse applications.
 
 📝 I regularly write articles on **[ivanyromero.com.ar](https://ivanyromero.com.ar/)**.
 
-📄 Know more about my experience and abilities in my CV online **[ivanyromero.com.ar/cv](https://ivanyromero.com.ar/cv)** (in spanish) or **[download in English](https://ivanyromero.com.ar/cv/data/cv-ivan-romero-en.pdf)**. You can also check my **[LinkedIn profile](https://www.linkedin.com/in/ivanromeroprog?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)**.
+📄 Know more about my experience and abilities in my CV online **[ivanyromero.com.ar/cv](https://ivanyromero.com.ar/cv)** (in spanish) or **[download in english](https://ivanyromero.com.ar/cv/data/cv-ivan-romero-en.pdf)**. You can also check my **[LinkedIn profile](https://www.linkedin.com/in/ivanromeroprog?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)**.
 
 <p>&nbsp;</p>
 <h3 align="left">Connect with me:</h3>
